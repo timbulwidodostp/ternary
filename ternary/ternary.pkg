@@ -1,4 +1,23 @@
-D 'DEA': Data envelopment analysis
+D 'ternary': A Stata package for tri-variate plots Use ternary With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F colorcheck.ado
+F colorcheck.sthlp
+F colorpalette.ado
+F colorpalette.sthlp
+F colorpalette9.ado
+F colorpalette9.hlp
+F colrspace.sthlp
+F colrspace_library_generators.sthlp
+F colrspace_library_lsmaps.sthlp
+F colrspace_library_namedcolors.sthlp
+F colrspace_library_palettes.sthlp
+F colrspace_library_rgbmaps.sthlp
+F colrspace_source.sthlp
+F lcolrspace.mlib
+F linepalette.ado
+F linepalette.hlp
+F palettes.hlp
+F symbolpalette.ado
+F symbolpalette.hlp
+F ternary.ado
+F ternary.sthlp
